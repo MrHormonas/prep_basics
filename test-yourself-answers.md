@@ -326,8 +326,11 @@ i.e. 'subl text.txt'
 
 *Contributed by [Matt Davis](http://github.com/chewieee)*
 
+#### How can I edit files within the comand line(cli)?
 
+One nice way to edit files is to use nano editor. just type: `$ nano file.txt`. Use Ctrl+o to save and Ctrl+x to exit 
 
+*Contributed by [Luis Melo](http://github.com/MrHormonas/)*
 
 ## Terms to Know
 
